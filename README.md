@@ -46,6 +46,10 @@ Launch the Streamlit frontend in your browser
 Allow interaction with the AI legal assistant
 Generate summaries, drafts, or insights from input text
 
+Preview
+---
+![image alt](https://github.com/tulsidounekarr/LawGPT/blob/bbba49c9d2c6d9fb9583efbba3253c3000b8b690/WhatsApp%20Image%202026-04-02%20at%202.17.36%20AM.jpegg)
+
 ---
 
 📝 Sample Usage:
